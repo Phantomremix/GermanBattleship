@@ -183,21 +183,21 @@ function gameStart() {
             line(lineX, 20, lineX, 580);
         }
         
-        text("hecornercornerbaka", 30, 30, 129, 80)
-        text("hexxxxxxxxxxxxxxxx", 159, 30, 129, 80)
-        text("hexxxxxxxxxxxxxxxx", 288, 30, 129, 80)
-        text("hexxxxxxxxxxxxxxxx", 417, 30, 129, 80)
-        text("hexxxxxxxxxxxxxxxx", 546, 30, 129, 80)
-        text("hexxxxxxxxxxxxxxxx", 675, 30, 129, 80)
-        text("hexxxxxxxxxxxxxxxx", 804, 30, 129, 80)
-        text("hexxxxxxxxxxxxxxxx", 933, 30, 129, 80)
-        text("hexxxxxxxxxxxxxxxx", 1062, 30, 129, 80)
-        text("heyyyyyyyyyyyyyyyy", 30, 110, 129, 80)
-        text("heyyyyyyyyyyyyyyyy", 30, 190, 129, 80)
-        text("heyyyyyyyyyyyyyyyy", 30, 270, 129, 80)
-        text("heyyyyyyyyyyyyyyyy", 30, 350, 129, 80)
-        text("heyyyyyyyyyyyyyyyy", 30, 430, 129, 80)
-        text("heyyyyyyyyyyyyyyyy", 30, 510, 129, 80)
+        text("Sentance Start  ↓", 30, 30, 129, 80)
+        text("Der Mann", 159, 30, 129, 80)
+        text("ich", 288, 30, 129, 80)
+        text("Bananen", 417, 30, 129, 80)
+        text("du", 546, 30, 129, 80)
+        text("Wasser ohne Gas", 675, 30, 129, 80)
+        text("Kaffee", 804, 30, 129, 80)
+        text("Sie", 933, 30, 129, 80)
+        text("Wurst", 1062, 30, 129, 80)
+        text("kochen", 30, 110, 129, 80)
+        text("will", 30, 190, 129, 80)
+        text("trinken", 30, 270, 129, 80)
+        text("essen", 30, 350, 129, 80)
+        text("kann", 30, 430, 129, 80)
+        text("möchte", 30, 510, 129, 80)
             fill(150, 150, 150);
             ellipse(277 - 66, 180 - 42, 50, 50);
             ellipse(408 - 66, 180 - 42, 50, 50);
@@ -260,21 +260,21 @@ function gameStart() {
             line(lineX, 610, lineX, 1170);
         }
         
-        text("hecornercornerbaka", 30, 620, 129, 80)
-        text("hexxxxxxxxxxxxxxxx", 159, 620, 129, 80)
-        text("hexxxxxxxxxxxxxxxx", 288, 620, 129, 80)
-        text("hexxxxxxxxxxxxxxxx", 417, 620, 129, 80)
-        text("hexxxxxxxxxxxxxxxx", 546, 620, 129, 80)
-        text("hexxxxxxxxxxxxxxxx", 675, 620, 129, 80)
-        text("hexxxxxxxxxxxxxxxx", 804, 620, 129, 80)
-        text("hexxxxxxxxxxxxxxxx", 933, 620, 129, 80)
-        text("hexxxxxxxxxxxxxxxx", 1062,620, 129, 80)
-        text("heyyyyyyyyyyyyyyyy", 30, 110 + 590, 129, 80)
-        text("heyyyyyyyyyyyyyyyy", 30, 190 + 590, 129, 80)
-        text("heyyyyyyyyyyyyyyyy", 30, 270 + 590, 129, 80)
-        text("heyyyyyyyyyyyyyyyy", 30, 350 + 590, 129, 80)
-        text("heyyyyyyyyyyyyyyyy", 30, 430 + 590, 129, 80)
-        text("heyyyyyyyyyyyyyyyy", 30, 510 + 590, 129, 80)
+        text("Sentance Start  ↓", 30, 620, 129, 80)
+        text("Der Mann", 159, 620, 129, 80)
+        text("ich", 288, 620, 129, 80)
+        text("Bananen", 417, 620, 129, 80)
+        text("du", 546, 620, 129, 80)
+        text("Wasser ohne Gas", 675, 620, 129, 80)
+        text("Kaffee", 804, 620, 129, 80)
+        text("Sie", 933, 620, 129, 80)
+        text("Wurst", 1062,620, 129, 80)
+        text("kochen", 30, 110 + 590, 129, 80)
+        text("will", 30, 190 + 590, 129, 80)
+        text("trinken", 30, 270 + 590, 129, 80)
+        text("essen", 30, 350 + 590, 129, 80)
+        text("kann", 30, 430 + 590, 129, 80)
+        text("möchte", 30, 510 + 590, 129, 80)
             fill(150, 150, 150);
             ellipse(277 - 66, 770 - 42, 50, 50);
             ellipse(408 - 66, 770 - 42, 50, 50);
